@@ -4,7 +4,16 @@
 ### How to use?
 Just add the following list to your pi-hole.
 
-<code> https://raw.githubusercontent.com/dupontjean/pihole-blocklist/master/game.txt </code>
+<code> https://raw.githubusercontent.com/jhidalgo3/pihole-blocklist/master/game.txt </code>
+
+<code>https://dbl.oisd.nl/</code>
+<code>https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt</code>		
+<code>https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt</code>	
+<code>https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt</code>		
+<code>https://raw.githubusercontent.com/outapzaza/blocklist/master/regex.txt</code>		
+<code>https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt</code>		
+<code>https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt</code>		
+<code>https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt</code>
 
 If you don't have a Raspberry PI, you can edit your hosts file with these settings.
 
