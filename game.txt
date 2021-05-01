@@ -666,6 +666,7 @@
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	truesteamachievements.com
 0.0.0.0	twitch.tv
+0.0.0.0 .hls.ttvnw.net
 0.0.0.0	ubi.com
 0.0.0.0	ubisoft.com
 0.0.0.0	ubistatic2-a.akamaihd.net
