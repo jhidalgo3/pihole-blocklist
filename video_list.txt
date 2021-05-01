@@ -1,0 +1,11 @@
+# youtube domains
+www.youtube.com
+m.youtube.com
+googlevideo.com
+ytimg.l.google.com
+ytimg.com
+
+youtu.be
+
+# Google Meet
+^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$
