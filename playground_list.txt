@@ -21,3 +21,9 @@ abtesting.roblox.com
 im-va.tiktokv.com
 accountinformation.roblox.com
 accounts.us1.gigya.com
+
+discord.com
+(^|\.)discordapp\.com$
+gateway.discord.gg
+
+www.pinterest.es
